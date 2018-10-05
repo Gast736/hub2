@@ -1,6 +1,6 @@
 a.txt 
  
 apples 
-oranges 
+Sweet oranges 
 kiwis 
 carrots
